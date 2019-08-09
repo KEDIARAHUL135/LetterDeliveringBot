@@ -1,1 +1,3 @@
 # LetterDeliveringBot
+
+This project is focused on making a letter delivering bot which will navigate its path by itself inside a building from the starting point to the end point using the informations available in the qr codes pasted at corners in the building/floor. This bot will also caontain a fingerprint sensor which will allow only the authorised person to access the material kept inside it. 
